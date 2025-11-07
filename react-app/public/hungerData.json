@@ -1,0 +1,14 @@
+{
+  "donations": [
+    { "month": "Jan", "amount": 2000 },
+    { "month": "Feb", "amount": 3200 },
+    { "month": "Mar", "amount": 4800 },
+    { "month": "Apr", "amount": 6400 },
+    { "month": "May", "amount": 8000 }
+  ],
+  "hungerLevels": [
+    { "name": "Food Secure", "value": 70 },
+    { "name": "Moderate Hunger", "value": 20 },
+    { "name": "Severe Hunger", "value": 10 }
+  ]
+}
